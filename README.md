@@ -36,3 +36,5 @@
 - Install redis client
 - To `index.js`, add a redis connection to the redis container
 - Commit and push
+
+https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/
